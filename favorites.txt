@@ -1,4 +1,4 @@
 -- Food List 
-1. Biryani
-2. Palaou 
-3. white rice 
+1.Biryani
+2. Chapati 
+3. Mutton Kosa
