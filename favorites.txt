@@ -2,3 +2,7 @@
 1.Biryani
 2.Chapati 
 3.Mutton Kosa
+-- movies List 
+1. Mummy 
+2. Journey to middle of earth 
+3. Jouney
